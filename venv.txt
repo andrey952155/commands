@@ -1,0 +1,11 @@
+VENV
+Установка venv       sudo apt install -y python3-venv
+Создание             python3 -m venv env
+Активация            source env/bin/activate
+Что внутри           pip freeze
+Деактивация          deactivate
+
+GIT
+Создать новый        git init
+Добавить все         git add .
+
