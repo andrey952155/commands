@@ -7,6 +7,7 @@ VENV
 Деактивация          deactivate
 
 GIT
+Влить все из уд репо git pull origin
 Создать новый        git init
 Добавить все         git add .
 Показать все ветки   git branch -v
