@@ -8,4 +8,6 @@ VENV
 GIT
 Создать новый        git init
 Добавить все         git add .
+yjdfz cnhjxrf
+
 
