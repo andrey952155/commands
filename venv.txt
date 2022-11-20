@@ -8,7 +8,12 @@ VENV
 GIT
 Создать новый        git init
 Добавить все         git add .
+<<<<<<< HEAD
 yjdfz cnhjxrf
 dfgdfg
+=======
+rm
+
+>>>>>>> rm
 
 
