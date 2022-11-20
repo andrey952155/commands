@@ -1,4 +1,3 @@
-
 VENV
 Установка venv       sudo apt install -y python3-venv
 Создание             python3 -m venv env
@@ -7,7 +6,11 @@ VENV
 Деактивация          deactivate
 
 GIT
+<<<<<<< HEAD
 Влить все из уд репо git pull origin
+=======
+		     git status
+>>>>>>> newbranch
 Создать новый        git init
 Добавить все         git add .
 Показать все ветки   git branch -v
