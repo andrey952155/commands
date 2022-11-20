@@ -17,7 +17,7 @@ GIT
 
 
 1. Создать ветку git branch name
-2. Перейти в новую ветку git checkout name
+2. Перейти в новую ветку git checkout name (Не забудь это сделать)
 3. Добавить измененные файлы в индекс git add .
 4. Коммит git commit -m 'new commit'
 5. Отправить в уд репо git push origin name_branch
