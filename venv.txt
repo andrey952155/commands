@@ -1,3 +1,4 @@
+
 VENV
 Установка venv       sudo apt install -y python3-venv
 Создание             python3 -m venv env
@@ -8,10 +9,15 @@ VENV
 GIT
 Создать новый        git init
 Добавить все         git add .
-<<<<<<< HEAD
-yjdfz cnhjxrf
-dfgdfg
-345
+Показать все ветки   git branch -v
+Удалить ветку        git branch -d name
 
-Добавил новую строчечку!!
+
+1. Создать ветку git branch name
+2. Перейти в новую ветку git checkout name
+3. Добавить измененные файлы в индекс git add .
+4. Коммит git commit -m 'new commit'
+5. Отправить в уд репо git push origin name_branch
+
+
 
