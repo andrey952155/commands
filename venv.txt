@@ -23,4 +23,15 @@ GIT
 5. Отправить в уд репо git push origin name_branch
 
 
+Сдача дз:
+1. Создать репу на github
+2. Клонировать в текущую папку git clone git clone git@server.domain:user/reponame.git .   (вместе с точкой)
+3. Выполнить дз
+4. Создать ветку для урока git branch lesson_1
+5. Переключится на ветку git checkout lesson_1
+6. Сделать комит git commit -m 'new commit'
+7. Залить ветку на гитхаб git push origin brancename
+8. Добавить pull request
+
+
 
